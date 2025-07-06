@@ -1,11 +1,11 @@
 # Kali-project-
 The process of setting up kali.
 
-\# Virtual Cybersecurity Lab Setup
+# Virtual Cybersecurity Lab Setup
 This project sets up a virtual environment to simulate offensive and defensive cybersecurity tasks using Kali Linux (attacker) and Windows 10 (target) in an isolated network.
-\##  Features
-\- Type 2 Hypervisor: Oracle VirtualBox
-\- Virtual Machines:
+##  Features
+- Type 2 Hypervisor: Oracle VirtualBox
+- Virtual Machines:
 &nbsp; - Kali Linux (Attacker)
 &nbsp; - Windows 10 (Target)
 \- Internal virtual network (no internet)
