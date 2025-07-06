@@ -63,3 +63,34 @@ Result:
 --------
 A fully isolated and connected cybersecurity test lab ready for penetration testing and malware simulation.
 Author:Godswill uc
+
+ANDROID FORENSIC READ ME
+ANDRIOD FORENSICS/README.md
++40
+Lines changed: 40 additions & 0 deletions
+
+
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,40 @@
+\# Android Forensics Analysis
+This project involves analyzing a mock Android forensic image using Autopsy to extract digital evidence such as call logs, SMS messages, application usage, and deleted content.
+\## 🔍 Objectives
+\- Analyze Android image with Autopsy
+\- Extract key evidence: SMS, calls, contacts, app data, images, browser history, and deleted files
+\- Create a professional forensic report with screenshots and findings
+\## 🧰 Tools Used
+\- Autopsy (Digital Forensics Platform)
+\- Provided Android image file (.tar.gz and data)
+\## 📁 Folder Structure
+\- steps.txt: Forensics methodology and investigation process
+\- Project screenshots/: Collected evidence and tool outputs
+\## 👤 Author
+Godswill uc
+DSA Project
+‎ANDRIOD FORENSICS/Report.pdf
+76 KB
+Binary file not shown.
+‎ANDRIOD FORENSICS/file-report.txt
++6,738
+Lines changed: 6738 additions & 0 deletions
+Large diffs are not rendered by default.
