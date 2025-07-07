@@ -76,7 +76,7 @@ This project involves analyzing a mock Android forensic image using Autopsy to e
 \## 👤 Author
 Godswill uc
 DSA Project
-‎ANDRIOD FORENSICS/Repor
+‎ANDRIOD FORENSICS/Report
 Lines changed: 6738 additions & 0 deletions
 Large diffs are not rendered by default.
 
